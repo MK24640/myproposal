@@ -2,7 +2,7 @@ function App() {
   
   return (
     <>
-    myproposal hello
+    myproposal hello World
     </>
   )
 }
